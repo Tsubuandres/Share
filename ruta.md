@@ -6,8 +6,8 @@
     - En inglés: `Tokyo, Minato City, Akasaka, 2 Chome−14−5 Daiwa Akasaka Biru`
     - En japonés: `東京都港区赤坂2-14-5 Daiwa赤坂ビル`
   - Hora de llegada:
-    - La hora de llegada oficial es a las 11:30 am.
-    - Sin embargo, a la familia Martínez les sugiero apuntarle a llegar a las **10:00 am**.
+    - La hora de llegada oficial es a las 11:45 am.
+    - Sin embargo, a la familia Martínez les sugiero apuntarle a llegar a las **10:00 am**. (por si tienen contratiempos con los trenes). Si llegan antes de las 11:45, les recomiendo ver tiendas o cafés en las áreas circundantes, ya que solo se puede entrar a partir de la hora oficial. 
 - Estación de tren:
     - En inglés: `Tameike-sannō`
     - En japonés: `溜池山王駅`
